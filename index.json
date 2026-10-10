@@ -1,0 +1,11 @@
+{
+  "org": "pola-rs",
+  "repo": "polars-iceberg",
+  "versions": [
+    {
+      "commit": "400eab094a98da2ab89d33f36f53b039f73d4db2",
+      "tag": "py-0.1.0",
+      "parsed_at": "2026-10-10T04:40:40.616992+00:00"
+    }
+  ]
+}
