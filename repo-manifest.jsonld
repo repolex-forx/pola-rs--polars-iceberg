@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pola-rs/polars-iceberg/commit/400eab094a98da2ab89d33f36f53b039f73d4db2",
       "git:hexsha": "400eab094a98da2ab89d33f36f53b039f73d4db2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "py-0.1.0"
     }
   ]
